@@ -1,0 +1,11 @@
+{
+  "name": "claude-toolkit",
+  "owner": { "name": "Unikat Security", "url": "https://github.com/Unikatsecuritydienstleistung" },
+  "description": "Gebündelte Claude-Code-Plugins: Agency-Agenten, Google-Maps-Scraper, LinkedIn-Skills und OpenSEO.",
+  "plugins": [
+    { "name": "agency-agents", "source": "./plugins/agency-agents", "description": "283 spezialisierte Subagenten für Engineering, Design, Marketing, Vertrieb, Finanzen, Security und mehr.", "category": "Agents" },
+    { "name": "google-maps-scraper", "source": "./plugins/google-maps-scraper", "description": "Lokale Firmen aus Google Maps als Lead-Liste (CSV) exportieren.", "category": "Lead Generation" },
+    { "name": "linkedin-skills", "source": "./plugins/linkedin-skills", "description": "12 Skills für LinkedIn: Posts, Kommentare, Hooks, Humanizer, Profil, Content-Plan.", "category": "Marketing" },
+    { "name": "openseo", "source": "./plugins/openseo", "description": "Keyword- und Wettbewerbsrecherche, Site-Audits, Rankings und KI-Sichtbarkeit über OpenSEO.", "category": "SEO" }
+  ]
+}

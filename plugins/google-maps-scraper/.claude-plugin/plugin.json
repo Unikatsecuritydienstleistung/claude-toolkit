@@ -1,0 +1,9 @@
+{
+  "name": "google-maps-scraper",
+  "description": "Google Maps lead scraper: turns a business type and a place into a CSV of local businesses (name, phone, email, website, socials). Runs locally, no API key.",
+  "version": "1.0.0",
+  "author": { "name": "Mahanaicoach", "url": "https://github.com/Mahanaicoach/google-maps-scraper-kit" },
+  "homepage": "https://github.com/Mahanaicoach/google-maps-scraper-kit",
+  "license": "AGPL-3.0",
+  "keywords": ["google-maps", "scraper", "lead-generation"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "agency-agents",
+  "description": "283 specialised subagents (engineering, design, marketing, sales, finance, security, product, testing and more) from The Agency.",
+  "version": "1.0.0",
+  "author": { "name": "AgentLand Contributors", "url": "https://github.com/msitarzewski/agency-agents" },
+  "homepage": "https://github.com/msitarzewski/agency-agents",
+  "license": "MIT",
+  "keywords": ["agents", "subagents", "agency"]
+}
